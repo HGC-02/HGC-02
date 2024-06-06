@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning the internationale
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me never
+- 📫 How to reach me :never
 - 😄 Pronouns: N/A
 - ⚡ Fun fact: arrrrrrrrrr
 
