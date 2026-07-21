@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me :never
 - 😄 Pronouns: N/A
-- ⚡ Fun fact: arrrrrrrrrr
+- ⚡ Fun fact: fun
 
 ### FIGHT FOR OPEN SOURCE 
 
