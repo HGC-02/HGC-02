@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @HGC-02
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning the phy ict
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me :never
-- 😄 Pronouns: N/A
-- ⚡ Fun fact: fun
-
+make it more simple
 ### FIGHT FOR OPEN SOURCE 
 
 <!---
