@@ -1,7 +1,6 @@
 
 ### FIGHT FOR OPEN SOURCE
 
-Even you kill me, there still have a thousand, Billion, Trillion and more of us will stand for open source. Open source is impossible to end and the truth will stand forever
 
 
 Born from open source, returned to open source.
