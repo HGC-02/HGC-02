@@ -7,7 +7,7 @@ Even you kill me, there still have a thousand, Billion, Trillion and more of us 
 Born from open source, returned to open source.
 
 <div align="right">
-  <a href="README.md">English</a> | <a href="README_zh.md">中文</a>
+  <a href="README.md">English</a> | <a href="README_ZH.md">中文</a>
 </div>
 
 <!---
