@@ -1,4 +1,4 @@
 import knowledge from open source community 
 
 
-<per>function work(){<br>    while !done{<br>        work_smart;<br>        work_hard;<br>        }<br>    open_source(finished_product);<br>    return finished_product;<br>}</per>
+<pre>function work(){<br>    while !done{<br>        work_smart;<br>        work_hard;<br>        }<br>    open_source(finished_product);<br>    return finished_product;<br>}</pre>
