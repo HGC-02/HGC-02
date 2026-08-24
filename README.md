@@ -9,6 +9,10 @@ Born from open source, returned to open source.
   <a href="README.md">English</a> | <a href="README_ZH.md">中文</a>
 </div>
 
+<div align="left">
+  <a href="README_code.md">code</a>
+</div>
+
 <!---
 HGC-02/HGC-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
